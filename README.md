@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pair Programming
 
 <img src="assets/images/alvaro-reyes-fSWOVc3e06w-unsplash.jpg">
