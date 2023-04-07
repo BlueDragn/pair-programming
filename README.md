@@ -16,13 +16,8 @@ The purpose to create this repository to store all the information about my pair
 - programming partner : https://github.com/emerson-bualat
 - Project Link : https://github.com/BlueDragn/pair-coding-28
 - live link : Comming soon
-=======
-pair-programming 01
----
-time-line : April 05 - 11 2023 <br>
-programming partner : https://github.com/emerson-bualat <br>
-Project Link :https://github.com/BlueDragn/pair-programming-28 <br>
->>>>>>> 37702ad716342da900f9a12b344a298b0fa2a4a3
+
+
 
 
 
