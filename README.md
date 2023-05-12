@@ -13,15 +13,15 @@ The purpose to create this repository to store all the information about my pair
 ## pair-programming-01
 #### Project Name : **pair-programming-28**
 - Time-Line : From **April 05 to April 11** (2023)
-- programming partner : https://github.com/emerson-bualat
-- Project repos : https://github.com/BlueDragn/pair-coding-28
-- live link : https://bluedragn.github.io/pair-programming-28/
+- programming partner : [Emerson Bualat](https://github.com/emerson-bualat)
+- Project repos :[pair-coding-28](https://github.com/BlueDragn/pair-coding-28)
+- live link : [Visit](https://bluedragn.github.io/pair-programming-28/)
 
 ## pair-programming-02
 #### Project Name : **pair-programming-32**
 - Time-Line : From **April 20 to April 25** (2023)
-- programming partner : https://github.com/emerson-bualat
-- Project repos : https://github.com/BlueDragn/pair-programming-32
+- programming partner : [Emerson Bualat](https://github.com/emerson-bualat)
+- Project repos : [pair-coding-32](https://github.com/BlueDragn/pair-programming-32)
 - live link : Comming Soon
 
 
