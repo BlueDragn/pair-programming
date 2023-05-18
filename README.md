@@ -24,6 +24,12 @@ The purpose to create this repository to store all the information about my pair
 - Project repos : [pair-coding-32](https://github.com/BlueDragn/pair-programming-32)
 - live link : Comming Soon
 
+## pair-programming-03
+#### Project Name : **pair-programming-47**
+- Time-Line : From **May 18 to May 25** (2023)
+- programming partner : [Maria Melnikova](https://github.com/mariagoldamg)
+- Project repos : [pair-coding-47](https://github.com/BlueDragn/pair-coding-47)
+- live link : Comming Soon
 
 
 
